@@ -27,8 +27,8 @@
 - Website : https://faizh3.github.io/web/
 - Email   : 201420026@student.binadarma.ac.id
 - Dev     : https://github.com/faizH3
-<!-- - Medium  : https://ekovegeance.medium.com -->
 - Twitter : https://twitter.com/Faiz88400251
+<!-- - Medium  : https://ekovegeance.medium.com -->
 <!-- - LinkedIn :  https://www.linkedin.com/in/ekovegeance -->
 <!-- - gitlab  : https://gitlab.com/ekovegeance -->
 
